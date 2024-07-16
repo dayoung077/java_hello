@@ -1,4 +1,4 @@
-public class WhileFor5 {
+	      public class WhileFor7 {
    public static void main(String[] args) {
 	   
 	   // <반복 - for> : 1부터 100까지의 수 중 3의 배수들의 합은?
